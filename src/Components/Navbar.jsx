@@ -16,7 +16,7 @@ const Navbar = () => {
         timeline.fromTo("nav",{
             backgroundColor : "transparent"
         },{
-            backgroundColor : "#000000050",
+            backgroundColor : "#00000050",
             backgroundFilter : "blur(10px)",
             duration : 1,
             ease : "power1.inOut"
